@@ -1,0 +1,3 @@
+include ':app', ':coil'
+rootProject.name='PetApplication'
+//project(':coil').projectDir=new File('coil')
